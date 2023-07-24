@@ -21661,6 +21661,18 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": ""
+    },
+     {
+      "id": 2401,
+      "name": "ProductCatalog",
+      "url": "/egov-workflow-v2/egov-wf/catalog/list",
+      "parentModule": "",
+      "displayName": "Product Catalog",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
     }
   ]
 }

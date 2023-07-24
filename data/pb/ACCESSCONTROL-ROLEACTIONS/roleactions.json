@@ -26991,6 +26991,12 @@
       "actionid": 2400,
       "actioncode": "",
       "tenantId": "pb"
+    },
+     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2401,
+      "actioncode": "",
+      "tenantId": "pb"
     }
   ]
 }
