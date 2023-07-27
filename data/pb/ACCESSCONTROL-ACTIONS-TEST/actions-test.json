@@ -21663,13 +21663,25 @@
       "path": ""
     },
      {
-      "id": 2401,
+      "id": 2402,
       "name": "ProductCatalog",
       "url": "/egov-workflow-v2/egov-wf/catalog/list",
       "parentModule": "",
       "displayName": "Product Catalog",
       "orderNumber": 0,
-      "enabled": false,
+      "enabled": true,
+      "serviceCode": "egov-workflow-v2",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2401,
+      "name": "ProductCatalogSave",
+      "url": "/egov-workflow-v2/egov-wf/catalog/save",
+      "parentModule": "",
+      "displayName": "Workflow Escalation save",
+      "orderNumber": 1,
+      "enabled": true,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
